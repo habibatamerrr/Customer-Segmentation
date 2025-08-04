@@ -11,6 +11,7 @@ This project applies **K-Means Clustering**, an unsupervised machine learning al
   - `Age`
   - `Annual Income (k$)`
   - `Spending Score (1-100)`
+
 🎯 Objectives
 
 - Clean and prepare the data
