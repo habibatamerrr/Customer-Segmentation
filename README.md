@@ -51,12 +51,6 @@ This project applies **K-Means Clustering**, an unsupervised machine learning al
 5. **Analysis**
    - Compare the average income and spending score of each cluster
 
-📌 Output Example
-
-![Clusters Plot](path/to/your/image.png)
-
-> Replace this line with your actual cluster plot if you'd like.
-
 🚀 Bonus Ideas
 
 - Try different clustering algorithms like **DBSCAN**
